@@ -9,3 +9,6 @@ B. Build a new docker image from the Dockerfile, and assign the image a meaningf
 - run vm
 - build docker with docker file form github
 - Create a bridge network in Docker
+
+
+Docker-apt file is to install docker on vm
